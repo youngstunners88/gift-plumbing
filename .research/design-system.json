@@ -1,0 +1,26 @@
+{
+  "colors": {
+    "primary": "#1E3A5F",
+    "secondary": "#4A90A4",
+    "accent": "#F4A261",
+    "dark": "#0F1F33",
+    "light": "#F0F4F8"
+  },
+  "fonts": {
+    "heading": "Montserrat",
+    "body": "Open Sans"
+  },
+  "layout": "hero-services-contact",
+  "components": [
+    "hero",
+    "services",
+    "about",
+    "contact",
+    "footer"
+  ],
+  "images": [
+    "Professional plumber in uniform fixing pipe, modern kitchen, #1E3A5F accent lighting",
+    "Emergency plumbing service van, branded with Gift Plumbing, city background",
+    "High-tech leak detection equipment, professional setting, #1E3A5F highlights"
+  ]
+}
